@@ -1,20 +1,16 @@
 # 📔**Loan Status**
-Tool : Google Collab, Tableau, Ms.Excel <br>
+Tool : Google Collab, Looker, Ms.Excel, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 Stage 0: Business Understanding
-## Background Project :
-wretwyujk
-
-## Objective :
-1. rwtehrjk
-2. retwyutkejr
+## Tugas :
+Analisis Prediktif Risiko Kredit.
 
 ## Goals :
-maneuhejrk
+Mengidentifikasi dan memodelkan variabel penentu utama yang signifikan memengaruhi loan_status, untuk memungkinkan lembaga keuangan membangun model scoring kredit yang akurat dan meminimalkan risiko gagal bayar.
 <br>
 
 # 📂 Stage 1: Exploratory Data Analysis
